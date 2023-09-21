@@ -1,0 +1,1 @@
+I am creating a app for Indian Artists who can show their work on these website and make their portfolio and also the user or buyers can visit these platform and can see the various arts and can appreciate them using comments and also they can buy it from artists.
